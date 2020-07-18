@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>Electric.png</file>
+        <file>Magnetic.png</file>
+    </qresource>
+</RCC>
